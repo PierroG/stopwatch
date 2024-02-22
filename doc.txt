@@ -1,0 +1,5 @@
+https://learnvue.co/articles/vue-reusable-tabs-component
+
+style : https://apps.apple.com/lu/app/interval-timer-hiit-timer/id1124297113?l=fr-FR
+
+time picker : https://stackoverflow.com/questions/57032888/center-selected-item-inside-a-number-picker-widget-in-javascript
